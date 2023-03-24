@@ -1,0 +1,15 @@
+{
+  "name": "calcul",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^23.2.0",
+    "electron-packager": "^17.1.1"
+  }
+}
